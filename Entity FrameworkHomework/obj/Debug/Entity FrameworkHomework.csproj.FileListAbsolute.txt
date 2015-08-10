@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\Entity FrameworkHomework\Entity FrameworkHomework\bin\Debug\Entity FrameworkHomework.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Entity FrameworkHomework\Entity FrameworkHomework\bin\Debug\Entity FrameworkHomework.exe
+c:\users\user\documents\visual studio 2013\Projects\Entity FrameworkHomework\Entity FrameworkHomework\bin\Debug\Entity FrameworkHomework.pdb
+c:\users\user\documents\visual studio 2013\Projects\Entity FrameworkHomework\Entity FrameworkHomework\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2013\Projects\Entity FrameworkHomework\Entity FrameworkHomework\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2013\Projects\Entity FrameworkHomework\Entity FrameworkHomework\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2013\Projects\Entity FrameworkHomework\Entity FrameworkHomework\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2013\Projects\Entity FrameworkHomework\Entity FrameworkHomework\obj\Debug\Entity FrameworkHomework.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Entity FrameworkHomework\Entity FrameworkHomework\obj\Debug\Entity FrameworkHomework.exe
+c:\users\user\documents\visual studio 2013\Projects\Entity FrameworkHomework\Entity FrameworkHomework\obj\Debug\Entity FrameworkHomework.pdb
